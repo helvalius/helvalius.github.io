@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-Just today I have added Groovy tests using [Spock] http://code.google.com/p/spock/ to my maven/tycho build Eclipse plugin. During test migration from FEST-Assertions & Mockito I wondered how argument interception in Spock works.
+Just today I have added Groovy tests using [Spock](http://code.google.com/p/spock/) to my maven/tycho build Eclipse plugin. During test migration from [FEST-Assertions](https://github.com/alexruiz/fest-assert-2.x) & [Mockito](http://code.google.com/p/mockito/) I wondered how argument interception in Spock works.
 
 The easy functional solution (that I didn't directly found on the web) is simple: **Use a closure!**
 
