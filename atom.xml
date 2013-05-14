@@ -4,7 +4,7 @@
   <title><![CDATA[Hel's Corner]]></title>
   <link href="http://helvalius.github.io/atom.xml" rel="self"/>
   <link href="http://helvalius.github.io/"/>
-  <updated>2013-05-13T14:45:31+00:00</updated>
+  <updated>2013-05-14T09:59:17+00:00</updated>
   <id>http://helvalius.github.io/</id>
   <author>
     <name><![CDATA[Helvalius (Jan Nonnen)]]></name>
@@ -18,7 +18,7 @@
     <link href="http://helvalius.github.io/blog/2013/03/26/use-a-closure-to-caputre-arguments-in-spock/"/>
     <updated>2013-03-26T14:07:00+00:00</updated>
     <id>http://helvalius.github.io/blog/2013/03/26/use-a-closure-to-caputre-arguments-in-spock</id>
-    <content type="html"><![CDATA[<p>Just today I have added Groovy tests using [Spock] <a href="http://code.google.com/p/spock/">http://code.google.com/p/spock/</a> to my maven/tycho build Eclipse plugin. During test migration from FEST-Assertions &amp; Mockito I wondered how argument interception in Spock works.</p>
+    <content type="html"><![CDATA[<p>Just today I have added Groovy tests using <a href="http://code.google.com/p/spock/">Spock</a> to my maven/tycho build Eclipse plugin. During test migration from <a href="https://github.com/alexruiz/fest-assert-2.x">FEST-Assertions</a> &amp; <a href="http://code.google.com/p/mockito/">Mockito</a> I wondered how argument interception in Spock works.</p>
 
 <p>The easy functional solution (that I didn&rsquo;t directly found on the web) is simple: <strong>Use a closure!</strong></p>
 
