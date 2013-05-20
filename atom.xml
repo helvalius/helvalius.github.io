@@ -4,7 +4,7 @@
   <title><![CDATA[Hel's Corner]]></title>
   <link href="http://helvalius.github.io/atom.xml" rel="self"/>
   <link href="http://helvalius.github.io/"/>
-  <updated>2013-05-20T12:42:49+00:00</updated>
+  <updated>2013-05-20T13:37:00+00:00</updated>
   <id>http://helvalius.github.io/</id>
   <author>
     <name><![CDATA[Helvalius (Jan Nonnen)]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Steam Adds Virtual Trading Cards]]></title>
+    <link href="http://helvalius.github.io/blog/2013/05/20/steam-adds-virtual-trading-cards/"/>
+    <updated>2013-05-20T13:35:00+00:00</updated>
+    <id>http://helvalius.github.io/blog/2013/05/20/steam-adds-virtual-trading-cards</id>
+    <content type="html"><![CDATA[<h1>Steam Adds Virtual Trading Cards for Playing</h1>
+
+<p>A few days ago, Valve announced the addition of <a href="http://steamcommunity.com/tradingcards/">Steam Trading Cards</a> for Steam. This adds another layer of game elements to the Steam platform.
+For each game there is a specific set of cards. Half of these can be earned randomly while playing (up until now) the participating game. The other half is earned only through trading with other players, either directly or via a market place.
+After completing a set of cards, one can craft them into a game badge. These badges can be shown on the Steam profile, but one can also gain random goodies for crafting. These can be coupons and discounts for Steam games or background images for the Steam profil.
+Through these badges and rewards, a player can further customize the user profile. This fact is further empowered as one can now gain Steam levels. All badges have a XP value which contributes to the Steam level. Leveling up provides non-tradeable items like profile showcases, additional friend slots, etc.</p>
+
+<p>Taking a look at it from the perspective of <strong>gamification</strong>, this idea and extension of the existing achievement system in Steam is reasonable. Lets look at the
+<a href="https://en.wikipedia.org/wiki/Bartle_Test">Bartle character types</a>: Achievers, Explorers, Socializers and Killers.</p>
+
+<p>Valve extended the initial achievement system with the trading cards to incorporate more player styles. The new system requires players to socialize, as they need to trade cards with others to complete their card set. Explorers can play to find rare cards or probably discover hidden badges.
+Killers can control the market of the trading cards and can strive on competing for specific cards. Achievers have new card sets and a leveling progressing system that should keep them occupied.</p>
+
+<p>Overall these features bind customers even stronger to the Steam plattform as one collects trading cards and needs to spend playing time to gain some of them. I think this step is reasonable and an interesting approach from Valve to further strengthen the Steam platform.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Use a Closure to capture arguments in Spock]]></title>
