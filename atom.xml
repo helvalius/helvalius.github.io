@@ -4,7 +4,7 @@
   <title><![CDATA[Hel's Corner]]></title>
   <link href="http://helvalius.github.io/atom.xml" rel="self"/>
   <link href="http://helvalius.github.io/"/>
-  <updated>2013-07-22T15:49:50+00:00</updated>
+  <updated>2013-07-22T15:56:27+00:00</updated>
   <id>http://helvalius.github.io/</id>
   <author>
     <name><![CDATA[Helvalius (Jan Nonnen)]]></name>
@@ -62,6 +62,8 @@
 
 <!-- Place this tag where you want the widget to render. -->
 
+
+<p></div></p>
 
 <div class="g-community" data-href="https://plus.google.com/communities/117465553333690535719" data-layout="landscape"></div>
 
