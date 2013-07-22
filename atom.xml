@@ -4,7 +4,7 @@
   <title><![CDATA[Hel's Corner]]></title>
   <link href="http://helvalius.github.io/atom.xml" rel="self"/>
   <link href="http://helvalius.github.io/"/>
-  <updated>2013-05-20T13:37:00+00:00</updated>
+  <updated>2013-07-22T15:34:03+00:00</updated>
   <id>http://helvalius.github.io/</id>
   <author>
     <name><![CDATA[Helvalius (Jan Nonnen)]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bonn Coding Dojo July]]></title>
+    <link href="http://helvalius.github.io/blog/2013/07/22/bonn-coding-dojo-july/"/>
+    <updated>2013-07-22T15:30:00+00:00</updated>
+    <id>http://helvalius.github.io/blog/2013/07/22/bonn-coding-dojo-july</id>
+    <content type="html"><![CDATA[<h2>What is a Coding Dojo</h2>
+
+<p>A Coding Dojo is a developer meet-up in which they work together in a pre-selected small programming challenge. This is a great way for developers to improve their skills and it&rsquo;s a great activity to encourage learning between developers. Especially in our case, we wanted to have an environment where our students and developers working in companies can learn together and from each other.</p>
+
+<p>During a Code Dojo we work in pairs, using Test-Driven-Development (aka Test-Driven-Design) and adhering to the Clean Code principles in order to solve a problem. These problems are referred to as coding katas as they are meant to be exercised repeatedly and offer learning as well as discussion opportunities. The focus is not on completing the kata in the time available, but rather doing the best that we can, and improving our practice of the above techniques in doing so.</p>
+
+<h2>The Bonn Coding Dojo</h2>
+
+<p>The first Bonn Coding Dojo meeting was on Thursday the 18th. Six people showed up, more than I expected for the first meet-up. The agenda was introduction, selection of a kata to work on and a retrospective at the end. After the introduction we selected the tennis game kata for the coding part.</p>
+
+<h2>What is the Tennis Game Kata</h2>
+
+<p>The tennis kata is  a simplified tennis game adopted from Wii sports. A game consists only of a single set.
+&ndash; A player can have points 0 (love), 15 (fifteen), 30 (thirty) or 40 (forty).
+&ndash; If a player has 40 points and wins the ball she wins the game.
+&ndash; If both have 40 it is a &ldquo;deuce&rdquo;. If the game is in deuce, the player winning the next ball has &ldquo;advantage&rdquo; and a game ball. If the player with advantage wins the ball, she wins the game. If the other player wins they are back at deuce.</p>
+
+<h2>Retrospective</h2>
+
+<p>In the end we had three different approaches with all three pairs using Java as implementation language. In between we swapped pairs twice. One group for example introduced a class to deal with counting the score. Another group translated a counter for representing the tennis points. Overall we had a lot of fun dealing with this kata and all agreed to to the same kata again in the next meeting.</p>
+
+<p>Questions and ideas that came up in the retrospective:
+&ndash; What about negative tests and invalid game states?
+&ndash; Is the tennis game class doing too much? What about an immutable score object?
+&ndash; Are the tennis game rules at a glance readable and recognizable from the source code?</p>
+
+<h2>Personal Feedback for the next meet-up</h2>
+
+<p>This was the first Coding Dojo that I organized, overall I was satisfied with how it worked out, but as always one finds things in which one can improve. I wanted to swap three times, as we had three pairs, but missed taking a look at the time in between. Next time I would like to do the pair sessions with a pomodoro timer, this way all have the same amount of time and a reminder when to switch. Maybe even start at some point to say that we delete all code after a pomodoro so that we could start fresh.</p>
+
+<p>Sometimes I had the impression that we spent too much time on design discussions in a pair when we should have spent the time to implement our ideas in code. The number one rule in a coding dojo: There is only code, and code doesn&rsquo;t exist without tests.</p>
+
+<p>In the future I would like to create and show a basic set of slides in the beginning to remind everyone of the rules and give the meeting a formal frame. I came up with this after taking a look what great working Sleepyfox is doing for the London Coding Dojo. His slides can be seen on speakersdeck: <a href="https://speakerdeck.com/sleepyfox.">https://speakerdeck.com/sleepyfox.</a> This standard fits into the idea behind katas and would give all participants a well-known framework to work in. Furthermore, after looking at the slides from Sleepyfox, I realized that I still need a banner/logo for putting on the slides and the google+ group.</p>
+
+<h2>Bonn Coding Dojo August</h2>
+
+<p>The next Coding Dojo is set for Thursday the 15th August, we will probably meet again to work on the Tennis Kata in the Römerstrasse 164, A121 at 18:30 till 20:30 (maybe we move to the B-IT building in the Dahlmannstrasse 2  during August/September, as I&rsquo;m working there in a university lab course fulltime during the time period). Ideas afterwards for visiting a pub are welcome! :) I&rsquo;ll post the event in the Coding Dojo Bonn Google+ community at the beginning of August. All interested developers or students are welcome! If you can&rsquo;t make it, don&rsquo;t worry. The plan is to organize (based on interest) at least a dojo per month. The monthly meeting will be on the 3rd Thursday each month.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Steam Adds Virtual Trading Cards]]></title>
