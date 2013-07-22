@@ -4,7 +4,7 @@
   <title><![CDATA[Hel's Corner]]></title>
   <link href="http://helvalius.github.io/atom.xml" rel="self"/>
   <link href="http://helvalius.github.io/"/>
-  <updated>2013-07-22T15:57:52+00:00</updated>
+  <updated>2013-07-22T15:58:29+00:00</updated>
   <id>http://helvalius.github.io/</id>
   <author>
     <name><![CDATA[Helvalius (Jan Nonnen)]]></name>
@@ -89,10 +89,7 @@
     <link href="http://helvalius.github.io/blog/2013/05/20/steam-adds-virtual-trading-cards/"/>
     <updated>2013-05-20T13:35:00+00:00</updated>
     <id>http://helvalius.github.io/blog/2013/05/20/steam-adds-virtual-trading-cards</id>
-    <content type="html"><![CDATA[<h1>Steam Adds Virtual Trading Cards for Playing</h1>
-
-<p>A few days ago, Valve announced the addition of <a href="http://steamcommunity.com/tradingcards/">Steam Trading Cards</a> for Steam. This adds another layer of game elements to the Steam platform.
-For each game there is a specific set of cards. Half of these can be earned randomly while playing (up until now) the participating game. The other half is earned only through trading with other players, either directly or via a market place.
+    <content type="html"><![CDATA[<p>For each game there is a specific set of cards. Half of these can be earned randomly while playing (up until now) the participating game. The other half is earned only through trading with other players, either directly or via a market place.
 After completing a set of cards, one can craft them into a game badge. These badges can be shown on the Steam profile, but one can also gain random goodies for crafting. These can be coupons and discounts for Steam games or background images for the Steam profil.
 Through these badges and rewards, a player can further customize the user profile. This fact is further empowered as one can now gain Steam levels. All badges have a XP value which contributes to the Steam level. Leveling up provides non-tradeable items like profile showcases, additional friend slots, etc.</p>
 
