@@ -4,7 +4,7 @@
   <title><![CDATA[Hel's Corner]]></title>
   <link href="http://helvalius.github.io/atom.xml" rel="self"/>
   <link href="http://helvalius.github.io/"/>
-  <updated>2013-12-02T09:01:00+00:00</updated>
+  <updated>2014-01-04T22:11:50+00:00</updated>
   <id>http://helvalius.github.io/</id>
   <author>
     <name><![CDATA[Helvalius (Jan Nonnen)]]></name>
@@ -107,7 +107,7 @@ Killers can control the market of the trading cards and can strive on competing 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Use a Closure to Capture Arguments in Spock]]></title>
+    <title type="html"><![CDATA[Use a Closure to capture arguments in Spock]]></title>
     <link href="http://helvalius.github.io/blog/2013/03/26/use-a-closure-to-caputre-arguments-in-spock/"/>
     <updated>2013-03-26T14:07:00+00:00</updated>
     <id>http://helvalius.github.io/blog/2013/03/26/use-a-closure-to-caputre-arguments-in-spock</id>
