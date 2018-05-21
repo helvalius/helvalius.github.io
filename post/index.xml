@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jan Nonnen</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Jan Nonnen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BonnAgile 2013 - A Personal Retrospective</title>
+      <link>/post/bonnagile-2013-a-personal-retrospective/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bonnagile-2013-a-personal-retrospective/</guid>
+      <description>(Disclaimer: The following text represents my personal opinion only)
+2013 is over and we are approaching the 3-year anniversary with our Bonn Agile meetup in February. A good time to make a retrospective what we did in the last year and maybe think about challenges in the new year. We had the &amp;ldquo;biggest change&amp;rdquo; of the group so far, in March we changed from meeting on the 3rd Monday of each month to the 1st Tuesday.</description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo Bonn January 2014</title>
+      <link>/post/coding-dojo-bonn-january-2014/</link>
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/coding-dojo-bonn-january-2014/</guid>
+      <description>In the first dojo of 2014 on Thursday 16th we continue working on the Potter Kata.
+During the last dojo we had the impression that this kata focusses more on algorithmic design. Each kata always has a breaking point at which on needs to review and rethink the own solution. The Potter Kata has a tricky breaking point as one thinks more about finding the correct algorithm than the code itself.</description>
+    </item>
+    
+    <item>
+      <title>Bonn Coding Dojo July</title>
+      <link>/post/bonn-coding-dojo-july/</link>
+      <pubDate>Mon, 22 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bonn-coding-dojo-july/</guid>
+      <description>What is a Coding Dojo A Coding Dojo is a developer meet-up in which they work together in a pre-selected small programming challenge. This is a great way for developers to improve their skills and it&amp;rsquo;s a great activity to encourage learning between developers. Especially in our case, we wanted to have an environment where our students and developers working in companies can learn together and from each other.</description>
+    </item>
+    
+    <item>
+      <title>Steam Adds Virtual Trading Cards</title>
+      <link>/post/steam-adds-virtual-trading-cards/</link>
+      <pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/steam-adds-virtual-trading-cards/</guid>
+      <description>Steam Adds Virtual Trading Cards for Playing A few days ago, Valve announced the addition of Steam Trading Cards for Steam. This adds another layer of game elements to the Steam platform. For each game there is a specific set of cards. Half of these can be earned randomly while playing (up until now) the participating game. The other half is earned only through trading with other players, either directly or via a market place.</description>
+    </item>
+    
+    <item>
+      <title>Use a Closure to capture arguments in Spock</title>
+      <link>/post/use-a-closure-to-caputre-arguments-in-spock/</link>
+      <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/use-a-closure-to-caputre-arguments-in-spock/</guid>
+      <description>Just today I have added Groovy tests using Spock to my maven/tycho build Eclipse plugin. During test migration from FEST-Assertions &amp;amp; Mockito I wondered how argument interception in Spock works.
+The easy functional solution (that I didn&amp;rsquo;t directly found on the web) is simple: Use a closure!
+Lets create a simple Person Java class with a name:
+public class Person { private String name; public void setName(String newName) { name = newName; } public String getName() { return name; } }  With a Java Test using Mockito one would use an ArgumentCaptor to verify that the name should be John:</description>
+    </item>
+    
+    <item>
+      <title>This Blog</title>
+      <link>/post/this-blog/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/this-blog/</guid>
+      <description>The topics of this blog will mainly be based on:
+ My work at the Computer Science at the University of Bonn in the research field of Software Engineering The monthly Agile Bonn Meetups Programming Hobbies: Basketball and Gaming Other stuff, e.g. my rabbits  So have fun!</description>
+    </item>
+    
+  </channel>
+</rss>

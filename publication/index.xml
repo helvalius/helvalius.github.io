@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jan Nonnen</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Jan Nonnen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10 Years of Agile Lab Courses for International Students</title>
+      <link>/publication/sagwas/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sagwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution and Preservation of Team Knowledge: Making the Implicit Explicit</title>
+      <link>/publication/icsm2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/icsm2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kanban im Universitätspraktikum - Ein Erfahrungsbericht</title>
+      <link>/publication/seuh2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/seuh2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Field Experiment on Gamification of Code Quality in Agile Development</title>
+      <link>/publication/ppig2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ppig2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing the Vocabulary to Identify Knowledge Divergence</title>
+      <link>/publication/wsr2012-b/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wsr2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacking Software Knowledge Erosion with Gamiﬁcation</title>
+      <link>/publication/sky2012/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sky2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smell Museums as Functional Tests for Static Analyses</title>
+      <link>/publication/wsr2012-a/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wsr2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Knowledge Divergence by Vocabulary Monitoring in Software Projects</title>
+      <link>/publication/csmr2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/csmr2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locating Term Introductions to support Code Comprehension</title>
+      <link>/publication/wsr2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wsr2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locating the Meaning of Terms in Source Code - Research on &#39;Term Introduction&#39;</title>
+      <link>/publication/wcre2011/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wcre2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How many realities fit into a program - Notes on the meaning of meaning for programs</title>
+      <link>/publication/sky2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sky2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diploma Thesis: Naming Consistency in Source Code Identifiers</title>
+      <link>/publication/thesis2011/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent Considerations of Naming Consistency</title>
+      <link>/publication/wsr2010/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wsr2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

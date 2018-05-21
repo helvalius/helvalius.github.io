@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jan Nonnen</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Jan Nonnen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography I&amp;rsquo;m a software craftsman working at Viaboxx. Before that I was pursuing my Ph.D. in Computer Science at the University of Bonn, Germany. My main area of research is software visualization, program comprehension and gamification.
+I&amp;rsquo;m the organiser of the local Softwerkskammer (since 2013) and co-organiser of the Bonn Agile Meetup (since 2011).</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>I was a lecturer for the following courses at the University Bonn:
+ 2013  Lecture &amp;ldquo;Advanced Topics in Software Construction&amp;rdquo; Lab and Seminar &amp;ldquo;Agile Software Development&amp;rdquo; Projektgruppe &amp;ldquo;Angewandte Softwaretechnologie&amp;rdquo;  2012  Seminar on Research Topics in Program Comprehension and Measurements Lecture &amp;ldquo;Advanced Topics in Software Construction&amp;rdquo; Projektgruppe &amp;ldquo;Angewandte Softwaretechnologie&amp;rdquo;  2011  Lecture &amp;ldquo;Advanced Topics in Software Construction&amp;rdquo; Lab and Seminar &amp;ldquo;Agile Software Development&amp;rdquo; Lecture &amp;ldquo;Object-Oriented Software Construction&amp;rdquo;  2010  Lab and Seminar &amp;ldquo;Enterprise Software Engineering&amp;rdquo; Projektgruppe &amp;ldquo;Modellbasierte Softwareanalyse&amp;rdquo; Lecture &amp;ldquo;Advanced Logic Programming&amp;rdquo; (Assistant)   </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

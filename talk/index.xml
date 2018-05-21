@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Jan Nonnen</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Jan Nonnen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding Dojo Bonn - Kata Workshop</title>
+      <link>/talk/froscon2014/</link>
+      <pubDate>Mon, 21 May 2018 17:41:18 +0200</pubDate>
+      
+      <guid>/talk/froscon2014/</guid>
+      <description>Einführung Geführte Einleitung über den Idee hinter Code-Katas als Weg zu kontinuierlicher Verbesserung und kontinuierlichem Training. Üben von Best-Practices welche potenziell in der täglichen Arbeit nicht zur Anwendung kommen, insb. pragmatisches, simples Codedesign auf Basis von Tests und Clean Code.
+Erklärung der Katas Als Kata bietet sich bei einem gemischten Set an Teilnehmern eine leichte Aufgabe an, die auch bei Teilerfüllung sichtbare Ergebnisse liefert. In der Erklärung werden die Anforderungen an das Ergebnis beschrieben, aber kein konkreter Lösungweg vorgegeben.</description>
+    </item>
+    
+    <item>
+      <title>Docker Container orchestrieren mit Rancher</title>
+      <link>/talk/froscon2016/</link>
+      <pubDate>Mon, 21 May 2018 17:41:18 +0200</pubDate>
+      
+      <guid>/talk/froscon2016/</guid>
+      <description>Dieser Talk besteht aus drei Teilen, anfangs wird kurz Docker erklärt und eine Einführung in Rancher gegeben, mit einer Übersicht über den aktuellen Feature-Stand und die aktuellen Entwicklungen. Dann berichten wir von unseren Erfahrungen bei der Viaboxx GmbH mit Rancher und am Ende zeigen wir in einer kurzen Demo, wie man Docker Swarm oder Kubernetes in Rancher einbinden kann. Rancher ist ein Docker Clustermanagement Werkzeug, das im März 2016 in der stabilen Version 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Jan Nonnen</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Jan Nonnen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distribution and Preservation of Team Knowledge: Making the Implicit Explicit</title>
+      <link>/publication/icsm2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/icsm2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kanban im Universitätspraktikum - Ein Erfahrungsbericht</title>
+      <link>/publication/seuh2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/seuh2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Field Experiment on Gamification of Code Quality in Agile Development</title>
+      <link>/publication/ppig2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ppig2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Knowledge Divergence by Vocabulary Monitoring in Software Projects</title>
+      <link>/publication/csmr2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/csmr2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locating the Meaning of Terms in Source Code - Research on &#39;Term Introduction&#39;</title>
+      <link>/publication/wcre2011/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wcre2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
